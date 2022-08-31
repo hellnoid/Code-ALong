@@ -1,0 +1,22 @@
+{
+  "name": "code-along",
+  "version": "1.0.0",
+  "description": "",
+  "main": "redux.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hellnoid/Code-ALong.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hellnoid/Code-ALong/issues"
+  },
+  "homepage": "https://github.com/hellnoid/Code-ALong#readme",
+  "dependencies": {
+    "redux": "^4.2.0"
+  }
+}
